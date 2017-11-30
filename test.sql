@@ -1,4 +1,4 @@
-select * from serivice
+select * from service
 
 
 what's this?
